@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jason, a full-stack developer 👨‍💻 and lover of the cloud ☁️ </div>  
   
 
-- 🔭 I’m currently working on [WC.](https://github.com/Jk4818/watch-collection-app)  
+- 🔭 I’m currently working on [kitchen-Copilot.](https://github.com/KitchenCopilot-AI-Generator/kitchen-copilot)  
   
 
-- 🌱 I’m educating myself on Typescript and Firebase.  
+- 🌱 I’m educating myself on enterprise scalable AWS infrastructure.  
   
 
 - ❓ Ask me about anything about cinematography, and audio production! Or if you're boring go ahead with AWS services...  
