@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jason, a full-stack developer 👨‍💻 and lover of the cloud ☁️ </div>  
+### <div align="center">I'm Jason, a cloud engineer ☁️ and full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [kitchen-Copilot.](https://github.com/KitchenCopilot-AI-Generator/kitchen-copilot)  
